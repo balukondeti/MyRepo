@@ -1,4 +1,4 @@
-
+//PrimeExample.java
 public class PrimeExample 
 {
 	public static void main(String [] args)
